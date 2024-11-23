@@ -1,13 +1,2 @@
-class TextData{
-protected string name;
-protected int age;
-public TextData(string name,int age){
-this.name=name;
-this.age=age;
-}
-
-protected textCreate(){
-Console.WriteLine($"I'm {this.name},I'm{}old.");
-}
-
-}
+name: Shuhei
+favolite foods: fish
